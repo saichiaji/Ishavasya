@@ -1,4 +1,4 @@
-@echo on
+@echo off
 
 for %%i in (*.docx) do call:myFunc %%~di %%~pi %%~ni 
 call:commit

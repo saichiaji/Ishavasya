@@ -1,4 +1,4 @@
-echo on
+@echo off
 cd a
 git pull
 
